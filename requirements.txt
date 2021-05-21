@@ -1,3 +1,4 @@
 phantomjs==1.4.1
 selenium==3.141.0
 urllib3==1.26.4
+windows-curses==2.2.0
